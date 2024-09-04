@@ -1,1 +1,4 @@
 I'm ordering a pizza
+Step 1: Find a joint
+Step 2: Decide on pizza
+Step 3: Order pizza
